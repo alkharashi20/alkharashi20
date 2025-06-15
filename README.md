@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  I'm Ahmed Mohamed, a third-year Computer Science student at the Culture and Science City. <br>
+  I'm Ahmed Mohamed <br>
   I'm a Flutter developer passionate about building clean and efficient mobile apps. <br>
   I have experience in MVI and MVVM architectures, Firebase, Supabase, RESTful APIs, local databases, and UI/UX design using Figma. <br><br>
   💬 Feel free to reach out to me for collaboration or Flutter-related questions! <br>
